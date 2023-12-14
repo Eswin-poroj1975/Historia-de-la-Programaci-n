@@ -1,6 +1,4 @@
-# Historia de la Programacion 
 Antes de hablar de lenguajes de programación, pensemos en **qué es un lenguaje**. Un lenguaje lo usamos entre humanos para comunicarnos, expresar nuestros sentimientos, o incluso de forma colaborativa para llegar a un fin. Un **lenguaje natural** se define como el **estilo y modo de hablar y escribir de cada persona en particular.**
-
 Ahora, nosotros usamos un **lenguaje de programación** para comunicarnos con una computadora y darle instrucciones, cómo ejecutarlas, a través de qué recursos, etc. Algunos lenguajes permiten ser muy específicos con las instrucciones. En general, un lenguaje de programación es **un formalismo artificial en el cual los algoritmos pueden ser expresados**.
 
 ## Niveles de descripción de un lenguaje
